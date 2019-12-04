@@ -1,0 +1,10 @@
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\bin\Debug\LeituraArquivoCsv.exe.config
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\bin\Debug\LeituraArquivoCsv.exe
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\bin\Debug\LeituraArquivoCsv.pdb
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\obj\Debug\LeituraArquivoCsv.csprojAssemblyReference.cache
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\obj\Debug\LeituraArquivoCsv.Form1.resources
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\obj\Debug\LeituraArquivoCsv.Properties.Resources.resources
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\obj\Debug\LeituraArquivoCsv.csproj.GenerateResource.cache
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\obj\Debug\LeituraArquivoCsv.csproj.CoreCompileInputs.cache
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\obj\Debug\LeituraArquivoCsv.exe
+C:\Users\26607\Source\Repos\LeituraArquivoCsv\LeituraArquivoCsv\obj\Debug\LeituraArquivoCsv.pdb
